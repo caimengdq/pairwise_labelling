@@ -4,5 +4,7 @@ of all the elements that are being compared.
 
 # Acknowlegement 
 https://github.com/gfxdisp/asap
+
 https://arxiv.org/abs/2004.05691
+
 https://github.com/lucasmaystre/choix
