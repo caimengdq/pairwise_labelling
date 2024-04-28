@@ -1,11 +1,13 @@
 # pairwise_labelling
-A labelling tool adopted active sampling method to do pairwise comparison for images, the objective of this tool is to label the least pairs possilbe, in order to gain a reliable ranking of all the elements that are being compared.
+This labelling tool leverages an active sampling algorithm for pairwise image comparison—a technique proven crucial for tasks where traditional pairwise comparison protocols demand extensive comparisons, often impractical due to time or resource constraints. Drawing inspiration from the research paper: [Active Sampling for Pairwise Comparisons via Approximate Message Passing and Information Gain Maximization](https://arxiv.org/abs/2004.05691) ,  this implementation significantly streamlines the labelling process, minimizing the number of comparisons required to derive accurate rankings across all samples.
 
-The use case of this tool is when you need to rank images by comparing them in pairs.
 
-# Acknowlegement 
-https://github.com/gfxdisp/asap
 
-https://arxiv.org/abs/2004.05691
 
-https://github.com/lucasmaystre/choix
+
+
+
+
+
+
+
